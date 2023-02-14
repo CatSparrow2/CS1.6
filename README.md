@@ -6,5 +6,8 @@
 
 https://www.youtube.com/watch?v=D3bmh2S3nTg&t=70s
 
+<div align="center">
 
-![pirate cat](https://user-images.githubusercontent.com/124008184/215635523-22788142-226e-40c1-9530-605a99d1ec85.gif)
+
+  ![counter-strike-counter_strike](https://user-images.githubusercontent.com/124008184/218770549-61886bd7-66a8-48f9-9ba1-7b152c80df07.gif)
+</div>
